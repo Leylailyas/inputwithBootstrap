@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#myDiv{
+    background-image: url(https://t3.ftcdn.net/jpg/06/37/49/94/360_F_637499419_D91RINR0o8Yg8my8XKBj1XXCFCVbr1dH.jpg);
+background-size: cover;
+    height: auto;
+}
